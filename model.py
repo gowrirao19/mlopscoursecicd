@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+
 # Functions and procedures
 def plot_predictions(train_data, train_labels,  test_data, test_labels,  predictions):
   """
